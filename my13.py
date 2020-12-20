@@ -7,5 +7,3 @@ for j in range(len(A)):
         count += 1
 print('Максимальное значение: ', max(A))
 print('Количество элементов', count)
-1111
-1414
