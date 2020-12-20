@@ -1,4 +1,3 @@
 # myproject
 Meeting
-vcvx
-xcvx
+New text
